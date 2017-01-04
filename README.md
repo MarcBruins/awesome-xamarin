@@ -22,9 +22,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 - [Library and Frameworks](#libraries-and-frameworks)
     - [Analytics](#analytics)
     - [Animation](#animation)
-    - [Apple TV](#apple-tv)
     - [Authentication](#authentication)
-    - [Bridging](#bridging)
     - [Cache](#cache)
     - [Charts](#charts)
     - [Code Quality](#code-quality)
@@ -181,11 +179,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Auth0](https://components.xamarin.com/view/auth0client) - Add authentication with different sources, either social like Google, Facebook, Twitter, or enterprise like WAAD, Google Apps, AD, ADFS or any SAML Provider.
  ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
 
-## Bridging
-* [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and OS X applications for iPhone, iPad and Mac, all using the Ruby language.
-* [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
-* [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) - An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews
-* [MAIKit](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and OS X
 
 ## Cache
 * [Awesome Cache](https://github.com/aschuch/AwesomeCache) - Delightful on-disk cache :large_orange_diamond:
