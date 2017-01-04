@@ -171,7 +171,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ## Animation
 * [Xamarin.Animations](https://github.com/aloisdeniel/Xamarin.Animations) - Libraries tends to make view animation easier for common scenarios like fade or scale entrance animations on iOS. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-
+* [Facebook Pop](https://components.xamarin.com/view/Facebook.Pop) - Pop is an open-source animation engine behind the Facebook Paper's smooth animations and transitions. Using dynamic instead of traditional static animations, Pop drives the scrolling, bouncing, and unfolding effects that bring Paper to life. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png)
 ## Authentication
 * [Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS, written in Swift. :large_orange_diamond:
 * [OhMyAuth](https://github.com/hyperoslo/OhMyAuth) - Simple OAuth2 library with a support of multiple services. :large_orange_diamond:
