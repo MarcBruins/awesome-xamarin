@@ -194,37 +194,9 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SciChart](https://www.scichart.com/scichart-xamarin-ios-xamarin-android-bindings-alpha/) - High performance charts. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
 
 ## Code Quality
-* [KZBootstrap](https://github.com/krzysztofzablocki/KZBootstrap) - iOS project bootstrap aimed at high quality coding.
-* [KZAsserts](https://github.com/krzysztofzablocki/KZAsserts) - Set of custom assertions that automatically generate NSError's, allow for both Assertions in Debug and Error handling in Release builds, with beautiful DSL.
-* [PSPDFUIKitMainThreadGuard](https://gist.github.com/steipete/5664345) - Simple snippet generating assertions when UIKit is used on background threads.
-* [Flex](https://github.com/Flipboard/FLEX) - An in-app debugging and exploration tool for iOS.
-* [chisel](https://github.com/facebook/chisel) - Collection of LLDB commands to assist debugging iOS apps.
-* [ocstyle](https://github.com/Cue/ocstyle) - Objective-C style checker.
-* [spacecommander](https://github.com/square/spacecommander) - Commit fully-formatted Objective-C code as a team without even trying.
-* [DWURecyclingAlert](https://github.com/diwu/DWURecyclingAlert) - Optimizing UITableViewCell For Fast Scrolling.
-* [Tailor](https://github.com/sleekbyte/tailor) - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
-* [SwiftCop](https://github.com/andresinaka/SwiftCop) -  SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations. :large_orange_diamond:
-* [Trackable](https://github.com/VojtaStavik/Trackable) - Trackable is a simple analytics integration helper library. It’s especially designed for easy and comfortable integration with existing projects. :large_orange_diamond:
-* [MLeaksFinder](https://github.com/Zepo/MLeaksFinder) - Find memory leaks in your iOS app at develop time.
-* [HeapInspector-for-iOS](https://github.com/tapwork/HeapInspector-for-iOS) - Find memory issues & leaks in your iOS app without instruments
-* [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - iOS tool that helps with profiling iOS Memory usage.
-* [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) - iOS library to help detecting retain cycles in runtime.
-* [Buglife](https://github.com/Buglife/Buglife-iOS) - Awesome bug reporting for iOS apps
-* [Warnings-xcconfig](https://github.com/boredzo/Warnings-xcconfig) - An xcconfig (Xcode configuration) file for easily turning on a boatload of warnings in your project or its targets.
-* [Aardvark](https://github.com/square/Aardvark) - Aardvark is a library that makes it dead simple to create actionable bug reports.
-* [Stats](https://github.com/shu223/Stats) - In-app memory usage monitoring.
-* [Alpha](https://github.com/Legoless/Alpha) - Next generation debugging framework for iOS.
-* [GlueKit](https://github.com/lorentey/GlueKit) - A type-safe observer framework for Swift. :large_orange_diamond:
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code. :large_orange_diamond:
-* [PSTModernizer](https://github.com/PSPDFKit-labs/PSTModernizer) - Makes it easier to support older versions of iOS by fixing things and adding missing methods.
-* [SwiftyVIPER](https://github.com/codytwinton/SwiftyVIPER) - Makes implementing VIPER architecture much easier and cleaner.  :large_orange_diamond:
-* [Bugsee](https://www.bugsee.com) - In-app bug and crash reporting with video, logs, network traffic and traces.
-* [Fallback](https://github.com/devxoul/Fallback) - Syntactic sugar for nested do-try-catch. :large_orange_diamond:
-
-#### Linter
-* [OCLint](http://oclint.org/) - Static code analysis tool for improving quality and reducing defects.
-* [Taylor](https://github.com/yopeso/Taylor) - Measure Swift code metrics and get reports in Xcode, Jenkins and other CI platforms. :large_orange_diamond:
-* [Swiftlint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions. :large_orange_diamond:
+* [Xamarin profiler](https://www.xamarin.com/profiler) - Use it to find memory leaks, resolve performance bottlenecks, and add polish to your apps before getting them out the door.
+* [Firebase](https://firebase.google.com/) - Analytics and much more. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png) 
+* [Hockeyapp](https://hockeyapp.com/) - Analytics and crash reporting ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
 
 ## Color
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - A lightweight, yet powerful, flat color framework for iOS (ObjC & Swift). :large_orange_diamond:
