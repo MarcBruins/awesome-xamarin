@@ -191,6 +191,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Charts](https://github.com/Flash3001/iOSCharts.Xamarin) - A Xamarin port by Lucas Teixeira for Charts (ios-charts) by Daniel Cohen Gindi, inspired by Philipp Jahoda https://github.com/danielgindi/Charts ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png)
 * [Oxyplot](https://components.xamarin.com/view/oxyplot) - A cross-platform plotting library for .NET ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
 * [Telerik](http://www.telerik.com/xamarin-ui/chart) - Feature-rich, intuitive and easy to use data visualization control featuring a large collection of chart series with smooth interaction and zooming. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [SciChart](https://www.scichart.com/scichart-xamarin-ios-xamarin-android-bindings-alpha/) - High performance charts. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
 
 ## Code Quality
 * [KZBootstrap](https://github.com/krzysztofzablocki/KZBootstrap) - iOS project bootstrap aimed at high quality coding.
