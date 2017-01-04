@@ -165,10 +165,10 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 # Libraries And Frameworks
 
 ## Analytics
-* [Google Analytics](https://www.google.nl/intl/nl/analytics/) - Google analytics platform. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android+ios.png) 
+* [Google Analytics](https://www.google.nl/intl/nl/analytics/) - Google analytics platform. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android+ios+windows.png) 
 
-* [Firebase](https://firebase.google.com/) - Analytics and much more. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android+ios.png) 
-* [Hockeyapp](https://hockeyapp.com/) - Analytics and crash reporting ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android+ios.png) 
+* [Firebase](https://firebase.google.com/) - Analytics and much more. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android+ios+windows.png) 
+* [Hockeyapp](https://hockeyapp.com/) - Analytics and crash reporting ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android+ios+windows.png) 
 
 ## Animation
 * [Xamarin.Animations](https://github.com/aloisdeniel/Xamarin.Animations) - Libraries tends to make view animation easier for common scenarios like fade or scale entrance animations on iOS.
