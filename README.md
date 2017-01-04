@@ -165,9 +165,9 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 # Libraries And Frameworks
 
 ## Analytics
-* [Google Analytics](https://www.google.nl/intl/nl/analytics/) - Google analytics platform.
-* [Firebase](https://firebase.google.com/) - Analytics and much more.
-* [Hockeyapp](https://hockeyapp.com/) - Analytics and crash reporting
+* [Google Analytics](https://www.google.nl/intl/nl/analytics/) - Google analytics platform. 📱
+* [Firebase](https://firebase.google.com/) - Analytics and much more. 📱
+* [Hockeyapp](https://hockeyapp.com/) - Analytics and crash reporting 📱
 
 ## Animation
 * [Xamarin.Animations](https://github.com/aloisdeniel/Xamarin.Animations) - Libraries tends to make view animation easier for common scenarios like fade or scale entrance animations on iOS.
