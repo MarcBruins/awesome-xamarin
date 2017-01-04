@@ -7,11 +7,10 @@
 A curated list of awesome Xamarin iOS and Xamarin Android ports, bindings, tutorials and much more!
 The list is divided into categories such as Frameworks, Components, Testing and others, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md).
 
-Projects in Swift will be marked with :large_orange_diamond:, Swift Extensions will be marked with 🔶[e] and ⌚ for Apple Watch projects. Feel free to add your project.
 
 # How to Use
-Awesome-iOS is an amazing list for people who need a certain feature on their app, so the best ways to use are:
-- Ask for help on our [Twitter](https://twitter.com/awesome_ios) or [Gitter Channel](https://gitter.im/vsouza/awesome-ios)
+Awesome-Xamarin is an amazing list for people who need a certain feature on their app, so the best ways to use are:
+- Ask for help on our [Twitter](https://twitter.com/marcbruins)
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our *Content Menu*
 
@@ -26,7 +25,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Cache](#cache)
     - [Charts](#charts)
     - [Code Quality](#code-quality)
-        - [Linter](#linter)
     - [Color](#color)
     - [Command Line](#command-line)
     - [Concurrency](#concurrency)
