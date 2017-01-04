@@ -165,7 +165,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 # Libraries And Frameworks
 
 ## Analytics
-* [Google Analytics](https://www.google.nl/intl/nl/analytics/) - Google analytics platform. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android.png) ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png)
+* [Google Analytics](https://www.google.nl/intl/nl/analytics/) - Google analytics platform. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android+ios.png) 
 
 * [Firebase](https://firebase.google.com/) - Analytics and much more. 📱
 * [Hockeyapp](https://hockeyapp.com/) - Analytics and crash reporting 📱
