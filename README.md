@@ -176,7 +176,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 
 ## Authentication
-* [Xamarin.Auth](https://components.xamarin.com/view/xamarin.auth/) - Xamarin.Auth helps you authenticate users via standard authentication mechanisms (e.g. OAuth 1.0 and 2.0), and store user credentials.(https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios+android.png) 
+* [Xamarin.Auth](https://components.xamarin.com/view/xamarin.auth/) - Xamarin.Auth helps you authenticate users via standard authentication mechanisms (e.g. OAuth 1.0 and 2.0), and store user credentials. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
 
 
 ## Bridging
