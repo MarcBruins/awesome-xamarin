@@ -320,30 +320,19 @@ Also see [push notifications](#push-notifications)
 * [PushSharp](https://github.com/Redth/PushSharp) - PushSharp is a server-side library for sending Push Notifications to iOS/OSX (APNS), Android/Chrome (GCM), Windows/Windows Phone, Amazon (ADM) and Blackberry devices! ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png
 * [PushSharp](https://github.com/Redth/PushSharp) - PushSharp is a server-side library for sending Push Notifications to iOS/OSX (APNS), Android/Chrome (GCM), Windows/Windows Phone, Amazon (ADM) and Blackberry devices! ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png
 
-
 ##### Push Notification Providers
 
 Most of these are paid services, some have free tiers.
 
-* [Urban Airship](https://www.urbanairship.com/products/mobile-app-engagement )
-* [Growth Push](https://growthpush.com) - Popular in Japan.
-* [Appboy](https://www.appboy.com)
-* [Batch](https://batch.com)
-* [Boxcar](https://boxcar.io)
-* [Carnival](http://www.carnival.io)
-* [Catapush](http://www.catapush.com/)
-* [Netmera](http://www.netmera.com)
-* [OneSignal](https://onesignal.com) - Free.
-* [PushBots](https://pushbots.com/)
-* [Pushwoosh](https://www.pushwoosh.com)
-* [Pushkin](https://github.com/Nordeus/pushkin) - Free and open-source.
-* [Pusher](https://pusher.com/push-notifications) - Free and unlimited.
+* [Urban Airship](https://www.urbanairship.com/products/mobile-app-engagement ) ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png
+* [Azure](https://azure.com) - Microsoft Azure platformr. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png
+* [HelpShift](https://lp.helpshift.com/push-notifications) - in-app push notification and messaging sdk ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png
 
 ## Parsing
 
 #### CSV
-* [CSwiftV](https://github.com/Daniel1of1/CSwiftV) - A csv parser written in swift conforming to rfc4180 :large_orange_diamond:
-* [SwiftCSV](https://github.com/naoty/SwiftCSV) - CSV parser for Swift :large_orange_diamond:
+* [CSVHelper](https://github.com/JoshClose/CsvHelper) - A library for reading and writing CSV files. Extremely fast, flexible, and easy to use. Supports reading and writing of custom class objects. :large_orange_diamond:
+* [KBCsv](https://github.com/kentcb/KBCsv) - KBCsv is an efficient, easy to use .NET parsing and writing library for the CSV (comma-separated values) format. :large_orange_diamond:
 
 #### JSON
 * [JSON-Framework](https://github.com/stig/json-framework) -  This framework implements a strict JSON parser and generator in Objective-C.
