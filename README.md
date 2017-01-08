@@ -58,7 +58,6 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
     - [Notifications](#notifications)
         - [Push Notifications](#push-notifications)
             - [Push Notification Providers](#push-notification-providers)
-        - [Local Notifications](#local-notifications)
     - [Parsing](#parsing)
         - [CSV](#csv)
         - [JSON](#json)
@@ -311,18 +310,16 @@ Also see [push notifications](#push-notifications)
 
 #### Email
 
-* [Mail Core 2](https://github.com/MailCore/mailcore2) - MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP.
-* [Postal](https://github.com/snipsco/Postal) - A swift framework providing simple access to common email providers. :large_orange_diamond:
+* [Messaging Plugin](https://components.xamarin.com/view/xam.plugins.messaging) - The Messaging plugin makes it possible to make a phone call, send a sms or send an e-mail using the default messaging applications on the different mobile platforms. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [MvvmCross email plugin](https://github.com/MvvmCross/MvvmCross/tree/develop/MvvmCross-Plugins/Email) -The Email plugin provides a cross-platform implementation for sending emails. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
 
 ## Notifications
 
 #### Push Notifications
-* [Orbiter](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
-* [PEM](https://github.com/fastlane/fastlane/tree/master/pem) - Automatically generate and renew your push notification profiles.
-* [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNS).
-* [FBNotifications](https://github.com/facebook/FBNotifications) - Facebook Analytics In-App Notifications Framework https://developers.facebook.com/docs/analytics/push-campaigns
-* [NWPusher](https://github.com/noodlewerk/NWPusher) - OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
-* [SimulatorRemoteNotifications](https://github.com/acoomans/SimulatorRemoteNotifications) - Library to send mock remote notifications to the iOS simulator
+* [PushNotification](https://github.com/rdelrosario/xamarin-plugins/tree/master/PushNotification) -Simple cross platform plugin to handle push notification events such as registering, unregistering and messages arrival on Android, iOS, UWP platforms. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [PushSharp](https://github.com/Redth/PushSharp) - PushSharp is a server-side library for sending Push Notifications to iOS/OSX (APNS), Android/Chrome (GCM), Windows/Windows Phone, Amazon (ADM) and Blackberry devices! ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png
+* [PushSharp](https://github.com/Redth/PushSharp) - PushSharp is a server-side library for sending Push Notifications to iOS/OSX (APNS), Android/Chrome (GCM), Windows/Windows Phone, Amazon (ADM) and Blackberry devices! ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png
+
 
 ##### Push Notification Providers
 
@@ -341,9 +338,6 @@ Most of these are paid services, some have free tiers.
 * [Pushwoosh](https://www.pushwoosh.com)
 * [Pushkin](https://github.com/Nordeus/pushkin) - Free and open-source.
 * [Pusher](https://pusher.com/push-notifications) - Free and unlimited.
-
-#### Local Notifications
-* [DLLocalNotifications](https://github.com/d7laungani/DLLocalNotifications) -  Easily create Local Notifications in swift - Wrapper of UserNotifications Framework. :large_orange_diamond:
 
 ## Parsing
 
