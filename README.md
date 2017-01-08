@@ -160,6 +160,9 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 
 * [Auth0](https://components.xamarin.com/view/auth0client) - Add authentication with different sources, either social like Google, Facebook, Twitter, or enterprise like WAAD, Google Apps, AD, ADFS or any SAML Provider.
  ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
+ 
+* [Fingerprint](https://github.com/smstuebe/xamarin-fingerprint/) - Authenticate a user using the fingerprint sensor (aka. Touch ID).
+ ![alt tag](https://github.com/MarcBruins/awesome-xamarin/blob/master/images/android%2Bios%2Bwindows.png)
 
 
 ## Cache
