@@ -81,9 +81,11 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
     - [UI](#ui)
         - [Activity Indicator](#activity-indicator)
         - [Alert View](#alerts)
+        - [App Introduction](#app-introduction)
         - [Badge](#badge)
         - [Button](#button)
         - [Calendar](#calendar)
+        - [Card View](#card-view)
         - [Form & Settings](#form--settings)
         - [Keyboard](#keyboard)
         - [Label](#label)
@@ -169,19 +171,18 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 * [Fingerprint](https://github.com/smstuebe/xamarin-fingerprint/) - Authenticate a user using the fingerprint sensor (aka. Touch ID).
  ![alt tag](https://github.com/MarcBruins/awesome-xamarin/blob/master/images/android%2Bios%2Bwindows.png)
 
-
 ## Cache
 * [Akavache](https://github.com/akavache/Akavache) - Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
 * [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading) - Library to load images quickly & easily on Xamarin.iOS, Xamarin.Android, Xamarin.Forms and Windows (UWP, WinRT).![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
 
-
 ## Charts
 * [Syncfusion](https://www.syncfusion.com/products/xamarin/chart) - Chart includes functionality for plotting more than 20 chart types. Each chart type is easily configured with built-in support for creating stunning visual effects. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
 * [Flexchart](http://www.goxuni.com/flexchart/) - Visualize your data in a wide span of Cartesian chart types including bar, column, area, line, spline, scatter, bubble, high-low-open-close (HLOC) and candle. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [Charts](https://github.com/Flash3001/iOSCharts.Xamarin) - A Xamarin port by Lucas Teixeira for Charts (ios-charts) by Daniel Cohen Gindi, inspired by Philipp Jahoda https://github.com/danielgindi/Charts ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png)
+* [Charts](https://github.com/Flash3001/iOSCharts.Xamarin) - A Xamarin port by Lucas Teixeira for [Charts](https://github.com/danielgindi/Charts) (ios-charts) by Daniel Cohen Gindi, inspired by Philipp Jahoda  ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png)
 * [Oxyplot](https://components.xamarin.com/view/oxyplot) - A cross-platform plotting library for .NET ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
 * [Telerik](http://www.telerik.com/xamarin-ui/chart) - Feature-rich, intuitive and easy to use data visualization control featuring a large collection of chart series with smooth interaction and zooming. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
 * [SciChart](https://www.scichart.com/scichart-xamarin-ios-xamarin-android-bindings-alpha/) - High performance charts. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
+* [MPAndroidChart](https://github.com/Flash3001/MPAndroidChart.Xamarin) - A Xamarin binding for [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) by Philipp Jahoda. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android.png)
 
 ## Code Quality
 * [Xamarin profiler](https://www.xamarin.com/profiler) - Use it to find memory leaks, resolve performance bottlenecks, and add polish to your apps before getting them out the door. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
@@ -393,6 +394,9 @@ Most of these are paid services, some have free tiers.
 #### Alerts
 * 
 
+#### App Introduction
+* [AppIntro](https://github.com/JonDouglas/AppIntro) - Xamarin port of [AppIntro](https://github.com/PaoloRotolo/AppIntro) by apl-devs.![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android.png)
+
 #### Badge
 * 
 
@@ -401,6 +405,10 @@ Most of these are paid services, some have free tiers.
 
 #### Calendar
 * 
+
+#### Card View
+* [FoldingCell](https://github.com/martijn00/FoldingCell) - FoldingCell is an expanding content cell inspired by folding paper material and created by [Ramotion Inc](https://business.ramotion.com/gthb-casestudies). ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android.png)
+
 
 #### Form & Settings
 * 
@@ -430,7 +438,7 @@ Most of these are paid services, some have free tiers.
 * 
 
 #### Rating Stars
-* [
+*
 
 #### ScrollView
 * 
