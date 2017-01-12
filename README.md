@@ -157,8 +157,8 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 * [Facebook Pop](https://components.xamarin.com/view/Facebook.Pop) - Pop is an open-source animation engine behind the Facebook Paper's smooth animations and transitions. Using dynamic instead of traditional static animations, Pop drives the scrolling, bouncing, and unfolding effects that bring Paper to life. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png)
 
 ## Architecture
-* [MvvmCross](https://mvvmcross.com) - Extensive MVVM framework with plugins.
-* [MVVM Light](http://www.mvvmlight.net) - Lightweight MVVM framework.
+* [MvvmCross](https://mvvmcross.com) - Extensive MVVM framework with plugins. ![alt tag](https://github.com/MarcBruins/awesome-xamarin/blob/master/images/android%2Bios%2Bwindows.png)
+* [MVVM Light](http://www.mvvmlight.net) - Lightweight MVVM framework. ![alt tag](https://github.com/MarcBruins/awesome-xamarin/blob/master/images/android%2Bios%2Bwindows.png)
 
 ## Authentication
 * [Xamarin.Auth](https://components.xamarin.com/view/xamarin.auth/) - Xamarin.Auth helps you authenticate users via standard authentication mechanisms (e.g. OAuth 1.0 and 2.0), and store user credentials. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
