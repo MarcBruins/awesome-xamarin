@@ -161,6 +161,9 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 ## Architecture
 * [MvvmCross](https://mvvmcross.com) - Extensive MVVM framework with plugins. ![alt tag](https://github.com/MarcBruins/awesome-xamarin/blob/master/images/android%2Bios%2Bwindows.png)
 * [MVVM Light](http://www.mvvmlight.net) - Lightweight MVVM framework. ![alt tag](https://github.com/MarcBruins/awesome-xamarin/blob/master/images/android%2Bios%2Bwindows.png)
+* [Prism](https://github.com/PrismLibrary/Prism) - Framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms
+* [Caliburn Micro](http://caliburnmicro.com/) - A small, yet powerful framework, designed for building applications across all XAML platforms. Full support for Xamarin.Forms and allows for reuse of ViewModels with Xamarin.Android and Xamarin.iOS projects (more support will be added in future releases). 
+* [FreshMvvm](https://github.com/rid00z/FreshMvvm) - FreshMvvm is a super light Mvvm Framework designed specifically for Xamarin.Forms.
 
 ## Authentication
 * [Xamarin.Auth](https://components.xamarin.com/view/xamarin.auth/) - Xamarin.Auth helps you authenticate users via standard authentication mechanisms (e.g. OAuth 1.0 and 2.0), and store user credentials. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
