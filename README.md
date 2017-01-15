@@ -553,7 +553,7 @@ Most of these are paid services, some have free tiers.
 * 
 
 # Books
-* 
+* [Xamarin In Action](http://xam.jbb.io) - Creating Native Cross-Platform Mobile Apps
 
 
 # Contributing and License
