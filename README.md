@@ -374,7 +374,8 @@ Most of these are paid services, some have free tiers.
 ## Testing
 
 #### TDD / BDD
-* 
+* [xUnit](http://xunit.github.io/) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework. xUnit has test runners available for Android and iOS. [Greg Shackles](http://gregshackles.com) has written a nice [tutorial](http://gregshackles.com/testing-xamarin-apps-getting-started-with-xunit/) to help you get started. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
+* [NUnitLite](https://github.com/nunit/nunitlite) - A lightweight testing framework for .NET, based on the ideas in NUnit and providing a subset of its features. NUnitLite is distributed with Xamarin to allow unit-testing of applications build with Xamarin. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
 
 #### A/B Testing
 * 
