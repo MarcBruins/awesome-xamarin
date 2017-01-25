@@ -75,9 +75,6 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
         - [TDD / BDD](#tdd--bdd)
         - [A/B Testing](#ab-testing)
         - [UI Testing](#ui-testing)
-        - [Other Testing](#other-testing)
-    - [Text](#text)
-        - [Font](#font)
     - [UI](#ui)
         - [Activity Indicator](#activity-indicator)
         - [Alert View](#alerts)
@@ -363,13 +360,10 @@ Most of these are paid services, some have free tiers.
 * [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
 
 ## Security
-* 
+* [Xamarin.Auth](https://components.xamarin.com/view/xamarin.auth/) - Xamarin.Auth helps you authenticate users via standard authentication mechanisms (e.g. OAuth 1.0 and 2.0), and store user credentials. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
 
 #### Encryption
-* 
-
-## Text
-*
+* [PCLCrypto](https://github.com/AArnott/PCLCrypto) - PCLCrypto provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
 
 ## Testing
 
@@ -381,10 +375,7 @@ Most of these are paid services, some have free tiers.
 * 
 
 #### UI Testing
-* 
-
-#### Other Testing
-* 
+* [Xamarin UITest](https://developer.xamarin.com/guides/testcloud/uitest/) - Introducing Xamarin.UITest, an Automated UI Acceptance Testing framework based on Calabash that allows programmers to write and execute tests in C# and NUnit that validate the functionality of iOS and Android Apps. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
 
 #### Font
 * 
