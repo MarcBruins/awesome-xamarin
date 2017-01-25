@@ -549,6 +549,7 @@ Most of these are paid services, some have free tiers.
 
 # Books
 * [Xamarin In Action](http://xam.jbb.io) - Creating Native Cross-Platform Mobile Apps
+* [Mastering Xamarin.Forms](http://book.sndr.io) - Patterns and practices for building mobile apps with Xamarin.Forms
 
 
 # Contributing and License
