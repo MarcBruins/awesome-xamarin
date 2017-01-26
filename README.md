@@ -320,7 +320,6 @@ Also see [push notifications](#push-notifications)
 #### Push Notifications
 * [PushNotification](https://github.com/rdelrosario/xamarin-plugins/tree/master/PushNotification) -Simple cross platform plugin to handle push notification events such as registering, unregistering and messages arrival on Android, iOS, UWP platforms. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
 * [PushSharp](https://github.com/Redth/PushSharp) - PushSharp is a server-side library for sending Push Notifications to iOS/OSX (APNS), Android/Chrome (GCM), Windows/Windows Phone, Amazon (ADM) and Blackberry devices! ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [PushSharp](https://github.com/Redth/PushSharp) - PushSharp is a server-side library for sending Push Notifications to iOS/OSX (APNS), Android/Chrome (GCM), Windows/Windows Phone, Amazon (ADM) and Blackberry devices! ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
 
 ##### Push Notification Providers
 
@@ -381,7 +380,7 @@ Most of these are paid services, some have free tiers.
 * 
 
 ## UI
-* 
+* [userdialogs](https://github.com/aritchie/userdialogs/) - A cross platform library that allows you to call for standard user dialogs from a shared/portable library, Actionsheets, alerts, confirmations, loading, login, progress, prompt, toast... async just for fun. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png) 
 
 #### Activity Indicator
 * 
