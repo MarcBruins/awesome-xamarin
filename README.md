@@ -147,57 +147,57 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 # Libraries And Frameworks
 
 ## Analytics
-* [Google Analytics](https://www.google.nl/intl/nl/analytics/) - Google analytics platform. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png) 
-* [Firebase](https://firebase.google.com/) - Analytics and much more. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png) 
-* [Hockeyapp](https://hockeyapp.com/) - Analytics and crash reporting ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [Google Analytics](https://www.google.nl/intl/nl/analytics/) - Google analytics platform. ![android][android]![ios][ios]![windows][windows] 
+* [Firebase](https://firebase.google.com/) - Analytics and much more. ![android][android]![ios][ios]![windows][windows] 
+* [Hockeyapp](https://hockeyapp.com/) - Analytics and crash reporting ![android][android]![ios][ios]![windows][windows]
 
 ## Animation
-* [Xamarin.Animations](https://github.com/aloisdeniel/Xamarin.Animations) - Libraries tends to make view animation easier for common scenarios like fade or scale entrance animations. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [Xamarin.Animations](https://github.com/aloisdeniel/Xamarin.Animations) - Libraries tends to make view animation easier for common scenarios like fade or scale entrance animations. ![android][android]![ios][ios]![windows][windows]
 * [Facebook Pop](https://components.xamarin.com/view/Facebook.Pop) - Pop is an open-source animation engine behind the Facebook Paper's smooth animations and transitions. Using dynamic instead of traditional static animations, Pop drives the scrolling, bouncing, and unfolding effects that bring Paper to life. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png)
 
 ## Architecture
-* [MvvmCross](https://mvvmcross.com) - Extensive MVVM framework with plugins. ![alt tag](https://github.com/MarcBruins/awesome-xamarin/blob/master/images/android%2Bios%2Bwindows.png)
-* [MVVM Light](http://www.mvvmlight.net) - Lightweight MVVM framework. ![alt tag](https://github.com/MarcBruins/awesome-xamarin/blob/master/images/android%2Bios%2Bwindows.png)
+* [MvvmCross](https://mvvmcross.com) - Extensive MVVM framework with plugins. ![android][android]![ios][ios]![windows][windows]
+* [MVVM Light](http://www.mvvmlight.net) - Lightweight MVVM framework. ![android][android]![ios][ios]![windows][windows]
 * [Prism](https://github.com/PrismLibrary/Prism) - Framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms
 * [Caliburn Micro](http://caliburnmicro.com/) - A small, yet powerful framework, designed for building applications across all XAML platforms. Full support for Xamarin.Forms and allows for reuse of ViewModels with Xamarin.Android and Xamarin.iOS projects (more support will be added in future releases). 
 * [FreshMvvm](https://github.com/rid00z/FreshMvvm) - FreshMvvm is a super light Mvvm Framework designed specifically for Xamarin.Forms.
 * [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - Use the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform. Supports Xamarin.iOS, Xamarin.Android, Xamarin.Mac, Xamarin Forms, WPF, Windows Forms, Windows Phone 8, Windows Store and Universal Windows Platform (UWP).
 
 ## Authentication
-* [Xamarin.Auth](https://components.xamarin.com/view/xamarin.auth/) - Xamarin.Auth helps you authenticate users via standard authentication mechanisms (e.g. OAuth 1.0 and 2.0), and store user credentials. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
+* [Xamarin.Auth](https://components.xamarin.com/view/xamarin.auth/) - Xamarin.Auth helps you authenticate users via standard authentication mechanisms (e.g. OAuth 1.0 and 2.0), and store user credentials. ![android][android]![ios][ios]
 
 * [Auth0](https://components.xamarin.com/view/auth0client) - Add authentication with different sources, either social like Google, Facebook, Twitter, or enterprise like WAAD, Google Apps, AD, ADFS or any SAML Provider.
- ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
+ ![android][android]![ios][ios]
  
 * [Fingerprint](https://github.com/smstuebe/xamarin-fingerprint/) - Authenticate a user using the fingerprint sensor (aka. Touch ID).
- ![alt tag](https://github.com/MarcBruins/awesome-xamarin/blob/master/images/android%2Bios%2Bwindows.png)
+ ![android][android]![ios][ios]![windows][windows]
 
 ## Cache
-* [Akavache](https://github.com/akavache/Akavache) - Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading) - Library to load images quickly & easily on Xamarin.iOS, Xamarin.Android, Xamarin.Forms and Windows (UWP, WinRT).![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [Akavache](https://github.com/akavache/Akavache) - Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.![android][android]![ios][ios]![windows][windows]
+* [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading) - Library to load images quickly & easily on Xamarin.iOS, Xamarin.Android, Xamarin.Forms and Windows (UWP, WinRT).![android][android]![ios][ios]![windows][windows]
 
 ## Charts
-* [Syncfusion](https://www.syncfusion.com/products/xamarin/chart) - Chart includes functionality for plotting more than 20 chart types. Each chart type is easily configured with built-in support for creating stunning visual effects. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [Flexchart](http://www.goxuni.com/flexchart/) - Visualize your data in a wide span of Cartesian chart types including bar, column, area, line, spline, scatter, bubble, high-low-open-close (HLOC) and candle. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [Syncfusion](https://www.syncfusion.com/products/xamarin/chart) - Chart includes functionality for plotting more than 20 chart types. Each chart type is easily configured with built-in support for creating stunning visual effects. ![android][android]![ios][ios]![windows][windows]
+* [Flexchart](http://www.goxuni.com/flexchart/) - Visualize your data in a wide span of Cartesian chart types including bar, column, area, line, spline, scatter, bubble, high-low-open-close (HLOC) and candle. ![android][android]![ios][ios]![windows][windows]
 * [Charts](https://github.com/Flash3001/iOSCharts.Xamarin) - A Xamarin port by Lucas Teixeira for [Charts](https://github.com/danielgindi/Charts) (ios-charts) by Daniel Cohen Gindi, inspired by Philipp Jahoda  ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png)
-* [Oxyplot](https://components.xamarin.com/view/oxyplot) - A cross-platform plotting library for .NET ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [Telerik](http://www.telerik.com/xamarin-ui/chart) - Feature-rich, intuitive and easy to use data visualization control featuring a large collection of chart series with smooth interaction and zooming. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [SciChart](https://www.scichart.com/scichart-xamarin-ios-xamarin-android-bindings-alpha/) - High performance charts. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
-* [MPAndroidChart](https://github.com/Flash3001/MPAndroidChart.Xamarin) - A Xamarin binding for [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) by Philipp Jahoda. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android.png)
+* [Oxyplot](https://components.xamarin.com/view/oxyplot) - A cross-platform plotting library for .NET ![android][android]![ios][ios]![windows][windows]
+* [Telerik](http://www.telerik.com/xamarin-ui/chart) - Feature-rich, intuitive and easy to use data visualization control featuring a large collection of chart series with smooth interaction and zooming. ![android][android]![ios][ios]![windows][windows]
+* [SciChart](https://www.scichart.com/scichart-xamarin-ios-xamarin-android-bindings-alpha/) - High performance charts. ![android][android]![ios][ios]
+* [MPAndroidChart](https://github.com/Flash3001/MPAndroidChart.Xamarin) - A Xamarin binding for [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) by Philipp Jahoda. ![android][android]
 
 ## Code Quality
-* [Xamarin profiler](https://www.xamarin.com/profiler) - Use it to find memory leaks, resolve performance bottlenecks, and add polish to your apps before getting them out the door. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
-* [Firebase](https://firebase.google.com/) - Analytics and much more. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png) 
-* [Hockeyapp](https://hockeyapp.com/) - Analytics and crash reporting ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [Xamarin profiler](https://www.xamarin.com/profiler) - Use it to find memory leaks, resolve performance bottlenecks, and add polish to your apps before getting them out the door. ![android][android]![ios][ios]
+* [Firebase](https://firebase.google.com/) - Analytics and much more. ![android][android]![ios][ios]![windows][windows] 
+* [Hockeyapp](https://hockeyapp.com/) - Analytics and crash reporting ![android][android]![ios][ios]![windows][windows]
 
 ## Color
 * [Splat](https://github.com/paulcbetts/splat) - Splat aims to fix that, by providing a usable leaky abstraction above platform code. It is leaky, because it always provides an extension method ToNative() and FromNative(), which converts the abstraction to the platform-specific version.
 
 ## Database
-* [Akavache](https://github.com/akavache/Akavache) - Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [Realm](https://realm.io/docs/xamarin/latest/) - The alternative to SQLite: Simple, modern and fast.![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [Couchbase Lite](https://components.xamarin.com/view/couchbase-lite-net) - Couchbase document store lite![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [sqlite-net](https://github.com/praeclarum/sqlite-net) - SQLite-net is an open source, minimal library to allow .NET and Mono applications to store data in SQLite 3 databases.![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [Akavache](https://github.com/akavache/Akavache) - Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.![android][android]![ios][ios]![windows][windows]
+* [Realm](https://realm.io/docs/xamarin/latest/) - The alternative to SQLite: Simple, modern and fast.![android][android]![ios][ios]![windows][windows]
+* [Couchbase Lite](https://components.xamarin.com/view/couchbase-lite-net) - Couchbase document store lite![android][android]![ios][ios]![windows][windows]
+* [sqlite-net](https://github.com/praeclarum/sqlite-net) - SQLite-net is an open source, minimal library to allow .NET and Mono applications to store data in SQLite 3 databases.![android][android]![ios][ios]![windows][windows]
 
 
 ## Data Structures / Algorithms
@@ -205,43 +205,43 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 
 ## Date & Time
 
-* [Noda.Time](http://nodatime.org/) - A better date and time API for .NET![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [Noda.Time](http://nodatime.org/) - A better date and time API for .NET![android][android]![ios][ios]![windows][windows]
 
 
 ## EventBus
-* [MessageBus](https://components.xamarin.com/view/messagebus) - Cross platform EventBus framework for iOS, Android, Windows Phone and Mac![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [MessageBus](https://components.xamarin.com/view/messagebus) - Cross platform EventBus framework for iOS, Android, Windows Phone and Mac![android][android]![ios][ios]![windows][windows]
 
 
 ## Files
-* [PCLStorage](https://github.com/dsplaisted/PCLStorage) - PCL Storage provides a consistent, portable set of local file IO APIs for .NET, Windows Phone, Windows Store, Xamarin.iOS, Xamarin.Android, and Silverlight. This makes it easier to create cross-platform .NET libraries and apps.![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [Filepicker-plugin](https://github.com/Studyxnet/FilePicker-Plugin-for-Xamarin-and-Windows) - Simple cross-platform plug-in that allows Pick files, save files and open the archive application standards..![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [PCLStorage](https://github.com/dsplaisted/PCLStorage) - PCL Storage provides a consistent, portable set of local file IO APIs for .NET, Windows Phone, Windows Store, Xamarin.iOS, Xamarin.Android, and Silverlight. This makes it easier to create cross-platform .NET libraries and apps.![android][android]![ios][ios]![windows][windows]
+* [Filepicker-plugin](https://github.com/Studyxnet/FilePicker-Plugin-for-Xamarin-and-Windows) - Simple cross-platform plug-in that allows Pick files, save files and open the archive application standards..![android][android]![ios][ios]![windows][windows]
 
 ## Games
-* [CocoSharp](https://developer.xamarin.com/guides/cross-platform/game_development/cocossharp/) - CocosSharp is an easy to use library for 2D games using C# and F#. It is a .NET port of the popular Cocos2D engine. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [UrhoSharp](https://developer.xamarin.com/guides/cross-platform/urho/introduction/) - UrhoSharp is a powerful 3D Game Engine for Xamarin and .NET developers. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [MonoGame](https://developer.xamarin.com/guides/cross-platform/game_development/monogame/) - MonoGame is an efficient, flexible, cross platform API for developing 2D and 3D games.![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [CocoSharp](https://developer.xamarin.com/guides/cross-platform/game_development/cocossharp/) - CocosSharp is an easy to use library for 2D games using C# and F#. It is a .NET port of the popular Cocos2D engine. ![android][android]![ios][ios]![windows][windows]
+* [UrhoSharp](https://developer.xamarin.com/guides/cross-platform/urho/introduction/) - UrhoSharp is a powerful 3D Game Engine for Xamarin and .NET developers. ![android][android]![ios][ios]![windows][windows]
+* [MonoGame](https://developer.xamarin.com/guides/cross-platform/game_development/monogame/) - MonoGame is an efficient, flexible, cross platform API for developing 2D and 3D games.![android][android]![ios][ios]![windows][windows]
 
 ## Gesture
 *
 
 ## Graphics
-* [Splat](https://github.com/paulcbetts/splat) - Splat aims to fix that, by providing a usable leaky abstraction above platform code. It is leaky, because it always provides an extension method ToNative() and FromNative(), which converts the abstraction to the platform-specific version.![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library (https://skia.org/). ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [Splat](https://github.com/paulcbetts/splat) - Splat aims to fix that, by providing a usable leaky abstraction above platform code. It is leaky, because it always provides an extension method ToNative() and FromNative(), which converts the abstraction to the platform-specific version.![android][android]![ios][ios]![windows][windows]
+* [SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library (https://skia.org/). ![android][android]![ios][ios]![windows][windows]
 
 ## Hardware
 #### Bluetooth
-* [Xamarin bluetooth le](https://github.com/xabre/xamarin-bluetooth-le) - Xamarin and MvvMCross plugin for accessing the bluetooth functionality. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [Xamarin bluetooth le](https://github.com/xabre/xamarin-bluetooth-le) - Xamarin and MvvMCross plugin for accessing the bluetooth functionality. ![android][android]![ios][ios]![windows][windows]
 
 #### Camera
-* [MediaPlugin](https://github.com/jamesmontemagno/MediaPlugin) - Simple cross platform plugin to take photos and video or pick them from a gallery from shared code.![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [MediaPlugin](https://github.com/jamesmontemagno/MediaPlugin) - Simple cross platform plugin to take photos and video or pick them from a gallery from shared code.![android][android]![ios][ios]![windows][windows]
 * [Chafu](https://github.com/BruelAndKjaer/Chafu) - A photo browser and camera library for Xamarin.iOS. UIImagePickerController alternative, with cropping support, face detection and more. ![ios][ios]
 
 #### Beacons
-* [AltBeacon](https://github.com/chrisriesgo/Android-AltBeacon-Library) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android.png)
-* [Estimote](http://developer.estimote.com/other-platforms/3rd-party-sdks/#xamarin-ios--android-c) - Xamarin folks have prepared these components—wrappers around our native SDKs for iOS and Android:![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
+* [AltBeacon](https://github.com/chrisriesgo/Android-AltBeacon-Library) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.![android][android]
+* [Estimote](http://developer.estimote.com/other-platforms/3rd-party-sdks/#xamarin-ios--android-c) - Xamarin folks have prepared these components—wrappers around our native SDKs for iOS and Android:![android][android]![ios][ios]
 
 #### Location
-* [GeoLocator](https://github.com/jamesmontemagno/GeolocatorPlugin) - Simple cross platform plugin to get GPS location including heading, speed, and more. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [GeoLocator](https://github.com/jamesmontemagno/GeolocatorPlugin) - Simple cross platform plugin to get GPS location including heading, speed, and more. ![android][android]![ios][ios]![windows][windows]
 
 #### Other Hardware
 *
@@ -251,36 +251,36 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 * [TZStackView](https://github.com/Cheesebaron/TZStackView) - A back port for iOS 7 & 8 and drop in replacement of UIStackView for Xamarin.iOS. ![ios][ios]
 
 ## Localization
-* [JsonLocalization](https://mvvmcross.com/docs/jsonlocalisation) - MvvmCross - The JsonLocalization plugin provides a number of support classes to help load Json language text files for internationalization (i18n). ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [JsonLocalization](https://mvvmcross.com/docs/jsonlocalisation) - MvvmCross - The JsonLocalization plugin provides a number of support classes to help load Json language text files for internationalization (i18n). ![android][android]![ios][ios]![windows][windows]
 
 ## Logging
-* [Xamarin-Logger](https://github.com/jirimatejka/xamarin-logger) - Simple plugin for logging events in your Xamarin.Forms applications. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [Xamarin-Logger](https://github.com/jirimatejka/xamarin-logger) - Simple plugin for logging events in your Xamarin.Forms applications. ![android][android]![ios][ios]![windows][windows]
 
 ## Maps
-* [ExternalMaps-Plugin](https://components.xamarin.com/gettingstarted/externalmapsplugin) - Open external maps application to navigate to a specific geolocation or address. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [ExternalMaps-Plugin](https://components.xamarin.com/gettingstarted/externalmapsplugin) - Open external maps application to navigate to a specific geolocation or address. ![android][android]![ios][ios]![windows][windows]
 * [Google-Maps-iOS](https://components.xamarin.com/view/googleiosmaps) - Add custom markers, styled maps, 3D buildings, indoor floor plans, street view, satellite imagery, and more to your iOS app. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png)
 
 ## Math
-* [Math.NET](https://numerics.mathdotnet.com/) - Math.NET Numerics aims to provide methods and algorithms for numerical computations in science, engineering and every day use. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [Math.NET](https://numerics.mathdotnet.com/) - Math.NET Numerics aims to provide methods and algorithms for numerical computations in science, engineering and every day use. ![android][android]![ios][ios]![windows][windows]
 
 
 ## Media
 #### Audio
-* [XamarinMediaManager](https://github.com/martijn00/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [XamarinMediaManager](https://github.com/martijn00/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL ![android][android]![ios][ios]![windows][windows]
 
 #### GIF
-* [gifimageviewandroid](https://components.xamarin.com/view/gifimageviewandroid) - Xamarin.Android ImageView that handles Animated GIF images! ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [gifimageviewandroid](https://components.xamarin.com/view/gifimageviewandroid) - Xamarin.Android ImageView that handles Animated GIF images! ![android][android]![ios][ios]![windows][windows]
 
 #### Image
-* [ImageCirclePlugin](https://github.com/jamesmontemagno/ImageCirclePlugin) - Simple but elegant way of display circle images in your Xamarin.Forms projects ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [ImageCirclePlugin](https://github.com/jamesmontemagno/ImageCirclePlugin) - Simple but elegant way of display circle images in your Xamarin.Forms projects ![android][android]![ios][ios]![windows][windows]
 
 
 #### Media Processing
 * [QRchestra](https://developer.xamarin.com/samples/monotouch/QRchestra/) - QR Code implementation. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png)
-* [ZXING.net](https://components.xamarin.com/view/zxing.net.mobile) - ZXing.Net.Mobile is a C#/.NET Barcode Scanning Library ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [ZXING.net](https://components.xamarin.com/view/zxing.net.mobile) - ZXing.Net.Mobile is a C#/.NET Barcode Scanning Library ![android][android]![ios][ios]![windows][windows]
 
 #### PDF
-* [Xamarin.Forms.PDFViewer](https://github.com/alexrainman/Xamarin.Forms.PDFViewer) - PDF Viewer custom renderers for Xamarin.Forms using Radaee PDF SDK and android-pdfview ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android.png)
+* [Xamarin.Forms.PDFViewer](https://github.com/alexrainman/Xamarin.Forms.PDFViewer) - PDF Viewer custom renderers for Xamarin.Forms using Radaee PDF SDK and android-pdfview ![android][android]
 
 * [ZoomingPdfViewer](https://github.com/xamarin/ios-samples/tree/master/ZoomingPdfViewer) - PThis is a port of Apple's ZoomingPDFViewer ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png)
 
@@ -288,15 +288,15 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 
 * [PDFNet](https://www.pdftron.com/pdfnet/) - PDFNet SDK is an industry-leading, high-quality document solution powering mobile, server, desktop, web, and cloud-based apps.
 
-* [XFiniumPDF](https://components.xamarin.com/view/xfinium.pdf) -Cross platform PDF development. Add PDF capabilites to your iOS, Android or Windows Phone applications.![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android.png)
+* [XFiniumPDF](https://components.xamarin.com/view/xfinium.pdf) -Cross platform PDF development. Add PDF capabilites to your iOS, Android or Windows Phone applications.![android][android]
 
-* [APITron](https://components.xamarin.com/view/apitron-pdf-kit) - Universal PDF creation and manipulation library, can be used to read, merge, edit and sign PDFs. Supports PDF content extraction, including text and images. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
+* [APITron](https://components.xamarin.com/view/apitron-pdf-kit) - Universal PDF creation and manipulation library, can be used to read, merge, edit and sign PDFs. Supports PDF content extraction, including text and images. ![android][android]![ios][ios]
 
 #### Streaming
-* [AndroidStreamingAudio](https://github.com/jamesmontemagno/AndroidStreamingAudio) - Series of Samples of streaming audio in background service in Xamarin.Android ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android.png)
+* [AndroidStreamingAudio](https://github.com/jamesmontemagno/AndroidStreamingAudio) - Series of Samples of streaming audio in background service in Xamarin.Android ![android][android]
 
 #### Video
-* [XamarinMediaManager](https://github.com/martijn00/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [XamarinMediaManager](https://github.com/martijn00/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL ![android][android]![ios][ios]![windows][windows]
 
 ## Messaging
 
@@ -306,44 +306,44 @@ Also see [push notifications](#push-notifications)
 * [SlackTextViewController](https://components.xamarin.com/view/SlackTextViewController) - A drop-in UIViewController subclass with a growing text input view and other useful messaging features. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png)
 
 ## Networking
-* [Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [refit](https://github.com/paulcbetts/refit) - The automatic type-safe REST library for Xamarin and .NET. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - This library brings the latest platform-specific networking libraries to Xamarin applications via a custom HttpClient handler. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [Connectivity](https://github.com/jamesmontemagno/ConnectivityPlugin) - This library brings the latest platform-specific networking libraries to Xamarin applications via a custom HttpClient handler. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [Fusillade](https://github.com/paulcbetts/Fusillade) - Fusillade helps you to write more efficient code in mobile and desktop applications written in C#. Its design goals and feature set are inspired by Volley as well as Picasso. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. ![android][android]![ios][ios]![windows][windows]
+* [refit](https://github.com/paulcbetts/refit) - The automatic type-safe REST library for Xamarin and .NET. ![android][android]![ios][ios]![windows][windows]
+* [ModernHttpClient](https://github.com/paulcbetts/ModernHttpClient) - This library brings the latest platform-specific networking libraries to Xamarin applications via a custom HttpClient handler. ![android][android]![ios][ios]![windows][windows]
+* [Connectivity](https://github.com/jamesmontemagno/ConnectivityPlugin) - This library brings the latest platform-specific networking libraries to Xamarin applications via a custom HttpClient handler. ![android][android]![ios][ios]![windows][windows]
+* [Fusillade](https://github.com/paulcbetts/Fusillade) - Fusillade helps you to write more efficient code in mobile and desktop applications written in C#. Its design goals and feature set are inspired by Volley as well as Picasso. ![android][android]![ios][ios]![windows][windows]
 
 
 #### Email
 
-* [Messaging Plugin](https://components.xamarin.com/view/xam.plugins.messaging) - The Messaging plugin makes it possible to make a phone call, send a sms or send an e-mail using the default messaging applications on the different mobile platforms. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [MvvmCross email plugin](https://github.com/MvvmCross/MvvmCross/tree/develop/MvvmCross-Plugins/Email) -The Email plugin provides a cross-platform implementation for sending emails. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [Messaging Plugin](https://components.xamarin.com/view/xam.plugins.messaging) - The Messaging plugin makes it possible to make a phone call, send a sms or send an e-mail using the default messaging applications on the different mobile platforms. ![android][android]![ios][ios]![windows][windows]
+* [MvvmCross email plugin](https://github.com/MvvmCross/MvvmCross/tree/develop/MvvmCross-Plugins/Email) -The Email plugin provides a cross-platform implementation for sending emails. ![android][android]![ios][ios]![windows][windows]
 
 ## Notifications
 
 #### Push Notifications
-* [PushNotification](https://github.com/rdelrosario/xamarin-plugins/tree/master/PushNotification) -Simple cross platform plugin to handle push notification events such as registering, unregistering and messages arrival on Android, iOS, UWP platforms. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [PushSharp](https://github.com/Redth/PushSharp) - PushSharp is a server-side library for sending Push Notifications to iOS/OSX (APNS), Android/Chrome (GCM), Windows/Windows Phone, Amazon (ADM) and Blackberry devices! ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [PushNotification](https://github.com/rdelrosario/xamarin-plugins/tree/master/PushNotification) -Simple cross platform plugin to handle push notification events such as registering, unregistering and messages arrival on Android, iOS, UWP platforms. ![android][android]![ios][ios]![windows][windows]
+* [PushSharp](https://github.com/Redth/PushSharp) - PushSharp is a server-side library for sending Push Notifications to iOS/OSX (APNS), Android/Chrome (GCM), Windows/Windows Phone, Amazon (ADM) and Blackberry devices! ![android][android]![ios][ios]![windows][windows]
 
 ##### Push Notification Providers
 
 Most of these are paid services, some have free tiers.
 
-* [Urban Airship](https://www.urbanairship.com/products/mobile-app-engagement ) ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [Azure](https://azure.com) - Microsoft Azure platformr. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [HelpShift](https://lp.helpshift.com/push-notifications) - in-app push notification and messaging sdk ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [Urban Airship](https://www.urbanairship.com/products/mobile-app-engagement ) ![android][android]![ios][ios]![windows][windows]
+* [Azure](https://azure.com) - Microsoft Azure platformr. ![android][android]![ios][ios]![windows][windows]
+* [HelpShift](https://lp.helpshift.com/push-notifications) - in-app push notification and messaging sdk ![android][android]![ios][ios]![windows][windows]
 
 ## Parsing
 
 #### CSV
-* [CSVHelper](https://github.com/JoshClose/CsvHelper) - A library for reading and writing CSV files. Extremely fast, flexible, and easy to use. Supports reading and writing of custom class objects. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
-* [KBCsv](https://github.com/kentcb/KBCsv) - KBCsv is an efficient, easy to use .NET parsing and writing library for the CSV (comma-separated values) format. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [CSVHelper](https://github.com/JoshClose/CsvHelper) - A library for reading and writing CSV files. Extremely fast, flexible, and easy to use. Supports reading and writing of custom class objects. ![android][android]![ios][ios]![windows][windows]
+* [KBCsv](https://github.com/kentcb/KBCsv) - KBCsv is an efficient, easy to use .NET parsing and writing library for the CSV (comma-separated values) format. ![android][android]![ios][ios]![windows][windows]
 
 #### JSON
 * [JSON.net](http://www.newtonsoft.com/json) -  Popular high-performance JSON framework for .NET
 
  Download
 #### HTML
-* [HTML Agility pack](http://htmlagilitypack.codeplex.com/) -This is an agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [HTML Agility pack](http://htmlagilitypack.codeplex.com/) -This is an agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT ![android][android]![ios][ios]![windows][windows]
 
 ## Passbook
 * [PassKitSharp](https://github.com/Redth/PassKitSharp) - PassKitSharp is a C#/.NET Library for Reading and Writing Apple PassKit files. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png)
@@ -351,39 +351,39 @@ Most of these are paid services, some have free tiers.
 ## Payments
 * [JudoPay](https://components.xamarin.com/view/judopay-xamarin-sdk) - Payments SDK for Xamarin.Forms. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images//android%2Bios.png)
 * [Stripe](https://components.xamarin.com/view/stripe) - Mobile Payments built for Developers
- ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
-* [Xamarin.inAppBilling](https://components.xamarin.com/view/xamarin.inappbilling) - Component to assist in adding In-App Billing to a Xamarin.Android application via Google Play Services.![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android.png)
-* [PayPal.Forms](https://github.com/AlejandroRuiz/PayPal.Forms) - PayPal Plugin for Xamarin.Forms ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
+ ![android][android]![ios][ios]
+* [Xamarin.inAppBilling](https://components.xamarin.com/view/xamarin.inappbilling) - Component to assist in adding In-App Billing to a Xamarin.Android application via Google Play Services.![android][android]
+* [PayPal.Forms](https://github.com/AlejandroRuiz/PayPal.Forms) - PayPal Plugin for Xamarin.Forms ![android][android]![ios][ios]
 
 ## Permissions
-* [PermissionsPlugin](https://github.com/jamesmontemagno/PermissionsPlugin) - Simple cross platform plugin to request and check permissions. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [PermissionsPlugin](https://github.com/jamesmontemagno/PermissionsPlugin) - Simple cross platform plugin to request and check permissions. ![android][android]![ios][ios]![windows][windows]
 
 ## Reactive Programming
-* [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform. ![android][android]![ios][ios]![windows][windows]
 
 ## Security
-* [Xamarin.Auth](https://components.xamarin.com/view/xamarin.auth/) - Xamarin.Auth helps you authenticate users via standard authentication mechanisms (e.g. OAuth 1.0 and 2.0), and store user credentials. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
+* [Xamarin.Auth](https://components.xamarin.com/view/xamarin.auth/) - Xamarin.Auth helps you authenticate users via standard authentication mechanisms (e.g. OAuth 1.0 and 2.0), and store user credentials. ![android][android]![ios][ios]
 
 #### Encryption
-* [PCLCrypto](https://github.com/AArnott/PCLCrypto) - PCLCrypto provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [PCLCrypto](https://github.com/AArnott/PCLCrypto) - PCLCrypto provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries. ![android][android]![ios][ios]![windows][windows]
 
 ## Testing
 
 #### TDD / BDD
-* [xUnit](http://xunit.github.io/) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework. xUnit has test runners available for Android and iOS. [Greg Shackles](http://gregshackles.com) has written a nice [tutorial](http://gregshackles.com/testing-xamarin-apps-getting-started-with-xunit/) to help you get started. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
-* [NUnitLite](https://github.com/nunit/nunitlite) - A lightweight testing framework for .NET, based on the ideas in NUnit and providing a subset of its features. NUnitLite is distributed with Xamarin to allow unit-testing of applications build with Xamarin. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [xUnit](http://xunit.github.io/) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework. xUnit has test runners available for Android and iOS. [Greg Shackles](http://gregshackles.com) has written a nice [tutorial](http://gregshackles.com/testing-xamarin-apps-getting-started-with-xunit/) to help you get started. ![android][android]![ios][ios]
+* [NUnitLite](https://github.com/nunit/nunitlite) - A lightweight testing framework for .NET, based on the ideas in NUnit and providing a subset of its features. NUnitLite is distributed with Xamarin to allow unit-testing of applications build with Xamarin. ![android][android]![ios][ios]![windows][windows]
 
 #### A/B Testing
 * 
 
 #### UI Testing
-* [Xamarin UITest](https://developer.xamarin.com/guides/testcloud/uitest/) - Introducing Xamarin.UITest, an Automated UI Acceptance Testing framework based on Calabash that allows programmers to write and execute tests in C# and NUnit that validate the functionality of iOS and Android Apps. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [Xamarin UITest](https://developer.xamarin.com/guides/testcloud/uitest/) - Introducing Xamarin.UITest, an Automated UI Acceptance Testing framework based on Calabash that allows programmers to write and execute tests in C# and NUnit that validate the functionality of iOS and Android Apps. ![android][android]![ios][ios]![windows][windows]
 
 #### Font
 * 
 
 ## UI
-* [userdialogs](https://github.com/aritchie/userdialogs/) - A cross platform library that allows you to call for standard user dialogs from a shared/portable library, Actionsheets, alerts, confirmations, loading, login, progress, prompt, toast... async just for fun. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png) 
+* [userdialogs](https://github.com/aritchie/userdialogs/) - A cross platform library that allows you to call for standard user dialogs from a shared/portable library, Actionsheets, alerts, confirmations, loading, login, progress, prompt, toast... async just for fun. ![android][android]![ios][ios]![windows][windows] 
 
 #### Activity Indicator
 * 
@@ -392,7 +392,7 @@ Most of these are paid services, some have free tiers.
 * 
 
 #### App Introduction
-* [AppIntro](https://github.com/JonDouglas/AppIntro) - Xamarin port of [AppIntro](https://github.com/PaoloRotolo/AppIntro) by apl-devs.![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android.png)
+* [AppIntro](https://github.com/JonDouglas/AppIntro) - Xamarin port of [AppIntro](https://github.com/PaoloRotolo/AppIntro) by apl-devs.![android][android]
 
 #### Badge
 * 
@@ -404,7 +404,7 @@ Most of these are paid services, some have free tiers.
 * 
 
 #### Card View
-* [FoldingCell](https://github.com/martijn00/FoldingCell) - FoldingCell is an expanding content cell inspired by folding paper material and created by [Ramotion Inc](https://business.ramotion.com/gthb-casestudies). ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android.png)
+* [FoldingCell](https://github.com/martijn00/FoldingCell) - FoldingCell is an expanding content cell inspired by folding paper material and created by [Ramotion Inc](https://business.ramotion.com/gthb-casestudies). ![android][android]
 
 
 #### Form & Settings
@@ -454,7 +454,7 @@ Most of these are paid services, some have free tiers.
 
 #### Tab Bar
 * [Tab Badge](https://github.com/xabre/xamarin-forms-tab-badge) - Xamarin Forms bindable tab badges. Badges are small numbers/chars that can indicate new items on the tab page.
- ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
+ ![android][android]![ios][ios]
 * [SGTabbedPager](https://github.com/Cheesebaron/SGTabbedPager) - A port of SGViewPager for Xamarin.iOS. Provides ViewPagerIndicator like tabs to iOS. ![ios][ios]
 
 #### Table View / Collection View
@@ -561,3 +561,5 @@ Most of these are paid services, some have free tiers.
  * Distributed under the MIT license. See LICENSE for more information.
 
 [ios]: https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png
+[android]: https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android.png
+[windows]: https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/windows.png
