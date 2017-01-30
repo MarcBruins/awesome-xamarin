@@ -557,7 +557,7 @@ Most of these are paid services, some have free tiers.
 
 
 # Contributing and License
- * [See the guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)
+ * [See the guide](https://github.com/MarcBruins/awesome-xamarin/blob/master/CONTRIBUTING.md)
  * Distributed under the MIT license. See LICENSE for more information.
 
 [ios]: https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png
