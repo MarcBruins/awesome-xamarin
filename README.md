@@ -510,7 +510,8 @@ Most of these are paid services, some have free tiers.
 # Good Websites
 
 #### News, Blogs and more
-* 
+* [marcbruins.nl](http://www.marcbruins.nl/)
+
 
 #### UIKit references
 * [iOS Fonts](http://iosfonts.com/)
