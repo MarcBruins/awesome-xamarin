@@ -455,6 +455,7 @@ Most of these are paid services, some have free tiers.
 #### Tab Bar
 * [Tab Badge](https://github.com/xabre/xamarin-forms-tab-badge) - Xamarin Forms bindable tab badges. Badges are small numbers/chars that can indicate new items on the tab page.
  ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios.png)
+* [SGTabbedPager](https://github.com/Cheesebaron/SGTabbedPager) - A port of SGViewPager for Xamarin.iOS. Provides ViewPagerIndicator like tabs to iOS. ![ios][ios]
 
 #### Table View / Collection View
 * 
