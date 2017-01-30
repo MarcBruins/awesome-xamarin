@@ -182,7 +182,7 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 * [Charts](https://github.com/Flash3001/iOSCharts.Xamarin) - A Xamarin port by Lucas Teixeira for [Charts](https://github.com/danielgindi/Charts) (ios-charts) by Daniel Cohen Gindi, inspired by Philipp Jahoda  ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png)
 * [Oxyplot](https://components.xamarin.com/view/oxyplot) - A cross-platform plotting library for .NET ![android][android]![ios][ios]![windows][windows]
 * [Telerik](http://www.telerik.com/xamarin-ui/chart) - Feature-rich, intuitive and easy to use data visualization control featuring a large collection of chart series with smooth interaction and zooming. ![android][android]![ios][ios]![windows][windows]
-* [SciChart](https://www.scichart.com/scichart-xamarin-ios-xamarin-android-bindings-alpha/) - High performance charts. ![android][android]![ios][ios]
+* [SciChart](https://www.scichart.com/scichart-xamarin-ios-xamarin-android-bindings-alpha/) - High performance iOS & Android charts. Capable of displaying millions of data-points in real-time (see [Android Performance](https://www.scichart.com/android-chart-performance-comparison/), [iOS Performance](https://www.scichart.com/ios-chart-performance-comparison/)). Supports 2D Line, Scatter, Column, Mountain chart, OHLC, Candlestick, Heatmap. v2 will support Stacked Columns, Stacked Mountains, Error Bars, Bubbles and Xamarin bindings![android][android]![ios][ios]
 * [MPAndroidChart](https://github.com/Flash3001/MPAndroidChart.Xamarin) - A Xamarin binding for [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) by Philipp Jahoda. ![android][android]
 
 ## Code Quality
