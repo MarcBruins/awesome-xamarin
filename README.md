@@ -234,6 +234,7 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 
 #### Camera
 * [MediaPlugin](https://github.com/jamesmontemagno/MediaPlugin) - Simple cross platform plugin to take photos and video or pick them from a gallery from shared code.![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
+* [Chafu](https://github.com/BruelAndKjaer/Chafu) - A photo browser and camera library for Xamarin.iOS. UIImagePickerController alternative, with cropping support, face detection and more. ![ios][ios]
 
 #### Beacons
 * [AltBeacon](https://github.com/chrisriesgo/Android-AltBeacon-Library) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android.png)
@@ -556,3 +557,5 @@ Most of these are paid services, some have free tiers.
 # Contributing and License
  * [See the guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)
  * Distributed under the MIT license. See LICENSE for more information.
+
+[ios]: https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png
