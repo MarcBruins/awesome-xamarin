@@ -5,7 +5,7 @@
 
 # About
 A curated list of awesome Xamarin ports, bindings, tutorials and much more!
-The list is divided into categories such as Frameworks, Components, Testing and others, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md).
+The list is divided into categories such as Frameworks, Components, Testing and others, open source projects, free and paid services. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/MarcBruins/awesome-xamarin/blob/master/CONTRIBUTING.md).
 
 
 # How to Use
