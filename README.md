@@ -551,7 +551,10 @@ Most of these are paid services, some have free tiers.
 * 
 
 # Podcasts
-* 
+
+* [Xamarin Podcast](https://soundcloud.com/xamarin-podcast) ([iTunes](https://itunes.apple.com/us/podcast/xamarin-podcast/id691368176?mt=2), [Google Play Music](https://play.google.com/music/listen?u=0#/ps/Ifcss44ww5lc375esulsuettsey)) - Knowing the latest in .NET, C#, and Xamarin is easier than ever with the Xamarin Podcast! Covers both Xamarin-specific topics (like [What's New in Xamarin.Forms](https://blog.xamarin.com/podcast-whats-new-in-xamarin-forms-2-3-3/) and general mobile development topics, like [authentication and identity management](https://blog.xamarin.com/podcast-identity-management-in-mobile-apps/).
+* [MergeConflict](http://www.mergeconflict.fm/) - A weekly discussion on all things development, technology, & more.
+* [Gone Mobile](http://gonemobile.io/) - Gone Mobile is a podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies. The podcast covers in-depth topics with guests ranging from Android, iOS, Windows Phone & Store development to mobile marketing and design, as well as other mobile or not so mobile related technologies.
 
 # Books
 * [Xamarin In Action](http://xam.jbb.io) - Creating Native Cross-Platform Mobile Apps
