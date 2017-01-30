@@ -248,6 +248,7 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 
 ## Layout
 * [FluentLayout](https://github.com/FluentLayout/Cirrious.FluentLayout) - FluentLayout provides an easy, fluent API for creating constraint-based layouts in Xamarin.iOS. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png)
+* [TZStackView](https://github.com/Cheesebaron/TZStackView) - A back port for iOS 7 & 8 and drop in replacement of UIStackView for Xamarin.iOS. ![ios][ios]
 
 ## Localization
 * [JsonLocalization](https://mvvmcross.com/docs/jsonlocalisation) - MvvmCross - The JsonLocalization plugin provides a number of support classes to help load Json language text files for internationalization (i18n). ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/android%2Bios%2Bwindows.png)
