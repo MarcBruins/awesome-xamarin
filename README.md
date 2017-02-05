@@ -431,7 +431,7 @@ Most of these are paid services, some have free tiers.
 * 
 
 #### Popup
-* 
+* [Rg.Plugins.Popup](https://github.com/rotorgames/Rg.Plugins.Popup) - The plugin allows you to open any page as a popup in Xamarin.Forms. ![android][android]![ios][ios]![windows][windows]
 
 #### Pull to Refresh
 * 
