@@ -297,6 +297,8 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 
 * [APITron](https://components.xamarin.com/view/apitron-pdf-kit) - Universal PDF creation and manipulation library, can be used to read, merge, edit and sign PDFs. Supports PDF content extraction, including text and images. ![android][android]![ios][ios]
 
+* [PSPDFKit](https://pspdfkit.com/) - A high-level PDF framework, includes PDF viewer, annotations and forms support, indexed full-text search and document editor. Official bindings are [available](https://pspdfkit.com/guides/ios/current/other-languages/xamarin/). ![android][android]![ios][ios]
+
 #### Streaming
 * [AndroidStreamingAudio](https://github.com/jamesmontemagno/AndroidStreamingAudio) - Series of Samples of streaming audio in background service in Xamarin.Android ![android][android]
 
