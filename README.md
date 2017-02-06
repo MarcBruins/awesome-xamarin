@@ -277,6 +277,7 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 
 #### Image
 * [ImageCirclePlugin](https://github.com/jamesmontemagno/ImageCirclePlugin) - Simple but elegant way of display circle images in your Xamarin.Forms projects ![android][android]![ios][ios]![windows][windows]
+* [SimpleCropView](https://github.com/markjackmilian/Xam.Droid.SimpleCropView) - Image cropping library for Xamarin Android ![android][android]
 
 
 #### Media Processing
