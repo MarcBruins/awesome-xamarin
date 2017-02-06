@@ -375,6 +375,7 @@ Most of these are paid services, some have free tiers.
 
 #### Encryption
 * [PCLCrypto](https://github.com/AArnott/PCLCrypto) - PCLCrypto provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries. ![android][android]![ios][ios]![windows][windows]
+* [SecureStorage](https://github.com/sameerkapps/SecureStorage) - The plugin can be used to securely store sensitive data strings such as password, session token, credit card number etc. ![android][android]![ios][ios]![windows][windows]
 
 ## Testing
 
