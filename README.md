@@ -156,6 +156,7 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 * [Xamarin.Animations](https://github.com/aloisdeniel/Xamarin.Animations) - Libraries tends to make view animation easier for common scenarios like fade or scale entrance animations. ![android][android]![ios][ios]![windows][windows]
 * [Facebook Pop](https://components.xamarin.com/view/Facebook.Pop) - Pop is an open-source animation engine behind the Facebook Paper's smooth animations and transitions. Using dynamic instead of traditional static animations, Pop drives the scrolling, bouncing, and unfolding effects that bring Paper to life. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png)
 * [DCAnimationKit](https://github.com/markjackmilian/Xam.DCAnimationKit) - A collection of animations for Xamarin iOS ![ios][ios]
+* [Lottie](https://github.com/martijn00/LottieXamarin) - Library that renders After Effects animations in real time, and allows apps to use animations as easily as they use static assets. Lottie uses animation data exported as JSON files from an open-source After Effects extension called [Bodymovin](https://github.com/bodymovin/bodymovin). ![android][android]![ios][ios]
 
 
 ## Architecture
