@@ -227,7 +227,7 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 * [MonoGame](https://developer.xamarin.com/guides/cross-platform/game_development/monogame/) - MonoGame is an efficient, flexible, cross platform API for developing 2D and 3D games.![android][android]![ios][ios]![windows][windows]
 
 ## Gesture
-*
+* [MR.Gestures](http://www.mrgestures.com/) - Handles all touch gestures in your Xamarin.Forms app. It uses a .NET like API in the PCL. No need for platform specific code.![android][android]![ios][ios]![windows][windows]
 
 ## Graphics
 * [Splat](https://github.com/paulcbetts/splat) - Splat aims to fix that, by providing a usable leaky abstraction above platform code. It is leaky, because it always provides an extension method ToNative() and FromNative(), which converts the abstraction to the platform-specific version.![android][android]![ios][ios]![windows][windows]
