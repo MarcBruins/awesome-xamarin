@@ -261,6 +261,7 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 
 ## Localization
 * [JsonLocalization](https://mvvmcross.com/docs/jsonlocalisation) - MvvmCross - The JsonLocalization plugin provides a number of support classes to help load Json language text files for internationalization (i18n). ![android][android]![ios][ios]![windows][windows]
+* [I18N-Portable](https://github.com/xleon/I18N-Portable) - Simple and cross platform internationalization/translations for Xamarin and .NET. ![android][android]![ios][ios]![windows][windows]
 
 ## Logging
 * [Xamarin-Logger](https://github.com/jirimatejka/xamarin-logger) - Simple plugin for logging events in your Xamarin.Forms applications. ![android][android]![ios][ios]![windows][windows]
