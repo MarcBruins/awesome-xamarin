@@ -269,6 +269,7 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 ## Maps
 * [ExternalMaps-Plugin](https://components.xamarin.com/gettingstarted/externalmapsplugin) - Open external maps application to navigate to a specific geolocation or address. ![android][android]![ios][ios]![windows][windows]
 * [Google-Maps-iOS](https://components.xamarin.com/view/googleiosmaps) - Add custom markers, styled maps, 3D buildings, indoor floor plans, street view, satellite imagery, and more to your iOS app. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png)
+* [UnifiedMaps](https://github.com/fiveninedigital/UnifiedMaps) - A platform independent map implementation for Xamarin.Forms designed from the ground up with MVVM in mind. ![android][android]![ios][ios]
 
 ## Math
 * [Math.NET](https://numerics.mathdotnet.com/) - Math.NET Numerics aims to provide methods and algorithms for numerical computations in science, engineering and every day use. ![android][android]![ios][ios]![windows][windows]
