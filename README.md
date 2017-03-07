@@ -204,7 +204,8 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 * [Realm](https://realm.io/docs/xamarin/latest/) - The alternative to SQLite: Simple, modern and fast.![android][android]![ios][ios]![windows][windows]
 * [Couchbase Lite](https://components.xamarin.com/view/couchbase-lite-net) - Couchbase document store lite![android][android]![ios][ios]![windows][windows]
 * [sqlite-net](https://github.com/praeclarum/sqlite-net) - SQLite-net is an open source, minimal library to allow .NET and Mono applications to store data in SQLite 3 databases.![android][android]![ios][ios]![windows][windows]
-
+* [Genesis.Repository](https://github.com/kentcb/Genesis.Repository) - Genesis.Repository is a library that makes it simpler to implement the repository pattern within your application, using SQLite as a backing store.![android][android]![ios][ios]![windows][windows]
+* [Genesis.DataStore](https://github.com/kentcb/Genesis.DataStore) - Genesis.DataStore is a library that makes it simpler to implement a SQLite-based, versioned data store for your application.![android][android]![ios][ios]![windows][windows]
 
 ## Data Structures / Algorithms
 *
@@ -233,10 +234,12 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 ## Graphics
 * [Splat](https://github.com/paulcbetts/splat) - Splat aims to fix that, by providing a usable leaky abstraction above platform code. It is leaky, because it always provides an extension method ToNative() and FromNative(), which converts the abstraction to the platform-specific version.![android][android]![ios][ios]![windows][windows]
 * [SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library (https://skia.org/). ![android][android]![ios][ios]![windows][windows]
+* [NGraphics](https://github.com/praeclarum/NGraphics) - NGraphics is a cross platform library for rendering vector graphics on .NET.![android][android]![ios][ios]![windows][windows]
 
 ## Hardware
 #### Bluetooth
 * [Xamarin bluetooth le](https://github.com/xabre/xamarin-bluetooth-le) - Xamarin and MvvMCross plugin for accessing the bluetooth functionality. ![android][android]![ios][ios]![windows][windows]
+* [BluetoothLE](https://github.com/aritchie/bluetoothle) - Easy to use, cross platform, reactive BluetoothLE Plugin for Xamarin.![android][android]![ios][ios]
 
 #### Camera
 * [MediaPlugin](https://github.com/jamesmontemagno/MediaPlugin) - Simple cross platform plugin to take photos and video or pick them from a gallery from shared code.![android][android]![ios][ios]![windows][windows]
@@ -265,6 +268,7 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 
 ## Logging
 * [Xamarin-Logger](https://github.com/jirimatejka/xamarin-logger) - Simple plugin for logging events in your Xamarin.Forms applications. ![android][android]![ios][ios]![windows][windows]
+* [Genesis.Logging](https://github.com/kentcb/Genesis.Logging) - Genesis.Logging is a simple library for application authors (not library authors) to facilitate performance-focussed logging.![android][android]![ios][ios]![windows][windows]
 
 ## Maps
 * [ExternalMaps-Plugin](https://components.xamarin.com/gettingstarted/externalmapsplugin) - Open external maps application to navigate to a specific geolocation or address. ![android][android]![ios][ios]![windows][windows]
@@ -374,6 +378,12 @@ Most of these are paid services, some have free tiers.
 
 ## Reactive Programming
 * [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform. ![android][android]![ios][ios]![windows][windows]
+* [Genesis.Observables](https://github.com/kentcb/Genesis.Observables) - Genesis.Observables is a simple library that provides commonly used, pre-canned observables.![android][android]![ios][ios]![windows][windows]
+* [Genesis.GenericSerialDisposable](https://github.com/kentcb/Genesis.GenericSerialDisposable) - Genesis.GenericSerialDisposable adds a generic version of Reactive Extensions' SerialDisposable class.![android][android]![ios][ios]![windows][windows]
+* [Genesis.RetryWithBackoff](https://github.com/kentcb/Genesis.RetryWithBackoff) - Genesis.RetryWithBackoff adds a `RetryWithBackoff` extension method to observables. As the name suggests, the `RetryWithBackoff` method makes it simple to retry a failing observable with a variable delay between retries.![android][android]![ios][ios]![windows][windows]
+* [Genesis.RepeatWithBackoff](https://github.com/kentcb/Genesis.RepeatWithBackoff) - Genesis.RepeatWithBackoff adds a `RepeatWithBackoff` extension method to observables. As the name suggests, the `RepeatWithBackoff` method makes it simple to repeat a failing observable with a variable delay between repetitions.![android][android]![ios][ios]![windows][windows]
+* [Genesis.WindowScan](https://github.com/kentcb/Genesis.WindowScan) - Genesis.WindowScan adds a `WindowScan` extension method to observables. This allows you to scan a time-boxed window if items. As items arrive on the source, your `add` function will be called. As items fall outside the window, your `remove` function will be called.![android][android]![ios][ios]![windows][windows]
+* [BluetoothLE](https://github.com/aritchie/bluetoothle) - Easy to use, cross platform, reactive BluetoothLE Plugin for Xamarin.![android][android]![ios][ios]
 
 ## Security
 * [Xamarin.Auth](https://components.xamarin.com/view/xamarin.auth/) - Xamarin.Auth helps you authenticate users via standard authentication mechanisms (e.g. OAuth 1.0 and 2.0), and store user credentials. ![android][android]![ios][ios]
@@ -387,6 +397,7 @@ Most of these are paid services, some have free tiers.
 #### TDD / BDD
 * [xUnit](http://xunit.github.io/) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework. xUnit has test runners available for Android and iOS. [Greg Shackles](http://gregshackles.com) has written a nice [tutorial](http://gregshackles.com/testing-xamarin-apps-getting-started-with-xunit/) to help you get started. ![android][android]![ios][ios]
 * [NUnitLite](https://github.com/nunit/nunitlite) - A lightweight testing framework for .NET, based on the ideas in NUnit and providing a subset of its features. NUnitLite is distributed with Xamarin to allow unit-testing of applications build with Xamarin. ![android][android]![ios][ios]![windows][windows]
+* [PCLMock](https://github.com/kentcb/PCLMock) - A simple mocking framework in a PCL.![android][android]![ios][ios]![windows][windows]
 
 #### A/B Testing
 * 
