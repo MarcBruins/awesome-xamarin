@@ -85,6 +85,7 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
         - [Card View](#card-view)
         - [Form & Settings](#form--settings)
         - [Keyboard](#keyboard)
+            * [FormsPinView](https://github.com/lassana/XamarinFormsPinView) -  PIN keyboard for Xamarin.Forms. ![android][android]![ios][ios] 
         - [Label](#label)
         - [Menu](#menu)
         - [Modal Transition](#modal-transition)
