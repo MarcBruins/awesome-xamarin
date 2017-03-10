@@ -437,7 +437,7 @@ Most of these are paid services, some have free tiers.
 * 
 
 #### Keyboard
-*
+* [FormsPinView](https://github.com/lassana/XamarinFormsPinView) -  PIN keyboard for Xamarin.Forms. ![android][android]![ios][ios] 
 
 #### Label
 * 
