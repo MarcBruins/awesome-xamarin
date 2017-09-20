@@ -262,6 +262,7 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 * [SlideOverKit](https://github.com/XAM-Consulting/SlideOverKit) - SlideOverKit allows developers to easily create awesome Slideovers in Xamarin.Forms. ![android][android]![ios][ios]![windows][windows]
 * [EasyLayout](https://gist.github.com/praeclarum/6225853) - EasyLayout makes writing auto layout code in Xamarin.iOS easier. ![ios][ios]
 * [EasyLayout.Droid](https://github.com/lprichar/EasyLayout.Droid) - EasyLayout.Droid makes it easier to read, write, and maintain relative layouts in Xamarin.Android. ![android][android]
+* [Xamarin.Flex](https://github.com/xamarin/flex) - Flexible box layout system written in C, designed to be easy to consume from other languages![android][android]![ios][ios]
 
 ## Localization
 * [JsonLocalization](https://mvvmcross.com/docs/jsonlocalisation) - MvvmCross - The JsonLocalization plugin provides a number of support classes to help load Json language text files for internationalization (i18n). ![android][android]![ios][ios]![windows][windows]
