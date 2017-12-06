@@ -297,6 +297,10 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 * [QRchestra](https://developer.xamarin.com/samples/monotouch/QRchestra/) - QR Code implementation. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png)
 * [ZXING.net](https://components.xamarin.com/view/zxing.net.mobile) - ZXing.Net.Mobile is a C#/.NET Barcode Scanning Library ![android][android]![ios][ios]![windows][windows]
 
+
+#### Screenshot
+* [ScreenshotPlugin](https://github.com/wilsonvargas/ScreenshotPlugin) - A simple Screenshot plugin for Xamarin and Windows to get and save screenshot in yours apps. ![android][android]![ios][ios]![windows][windows]
+
 #### PDF
 * [Xamarin.Forms.PDFViewer](https://github.com/alexrainman/Xamarin.Forms.PDFViewer) - PDF Viewer custom renderers for Xamarin.Forms using Radaee PDF SDK and android-pdfview ![android][android]
 
@@ -426,7 +430,7 @@ Most of these are paid services, some have free tiers.
 * 
 
 #### Button
-* 
+* [ButtonCircle](https://github.com/wilsonvargas/ButtonCirclePlugin) - Simple but elegant way of display circle buttons with an icon in your Xamarin.Forms projects. ![android][android]![ios][ios]![windows][windows]
 
 #### Calendar
 * 
