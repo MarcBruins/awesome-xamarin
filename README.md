@@ -297,6 +297,10 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 * [QRchestra](https://developer.xamarin.com/samples/monotouch/QRchestra/) - QR Code implementation. ![alt tag](https://raw.githubusercontent.com/MarcBruins/awesome-xamarin/master/images/ios.png)
 * [ZXING.net](https://components.xamarin.com/view/zxing.net.mobile) - ZXing.Net.Mobile is a C#/.NET Barcode Scanning Library ![android][android]![ios][ios]![windows][windows]
 
+
+#### Screenshot
+* [ScreenshotPlugin](https://github.com/wilsonvargas/ScreenshotPlugin) - A simple Screenshot plugin for Xamarin and Windows to get and save screenshot in yours apps. ![android][android]![ios][ios]![windows][windows]
+
 #### PDF
 * [Xamarin.Forms.PDFViewer](https://github.com/alexrainman/Xamarin.Forms.PDFViewer) - PDF Viewer custom renderers for Xamarin.Forms using Radaee PDF SDK and android-pdfview ![android][android]
 
@@ -386,6 +390,7 @@ Most of these are paid services, some have free tiers.
 * [Genesis.RepeatWithBackoff](https://github.com/kentcb/Genesis.RepeatWithBackoff) - Genesis.RepeatWithBackoff adds a `RepeatWithBackoff` extension method to observables. As the name suggests, the `RepeatWithBackoff` method makes it simple to repeat a failing observable with a variable delay between repetitions.![android][android]![ios][ios]![windows][windows]
 * [Genesis.WindowScan](https://github.com/kentcb/Genesis.WindowScan) - Genesis.WindowScan adds a `WindowScan` extension method to observables. This allows you to scan a time-boxed window if items. As items arrive on the source, your `add` function will be called. As items fall outside the window, your `remove` function will be called.![android][android]![ios][ios]![windows][windows]
 * [BluetoothLE](https://github.com/aritchie/bluetoothle) - Easy to use, cross platform, reactive BluetoothLE Plugin for Xamarin.![android][android]![ios][ios]
+* [Monkey.Robotics](https://github.com/xamarin/Monkey.Robotics) - Monkey.Robotics greatly simplifies the task of building complex .NET Microframework (MF) powered robots and communicating with them from within Xamarin apps. ![android][android]![ios][ios]
 
 ## Security
 * [Xamarin.Auth](https://components.xamarin.com/view/xamarin.auth/) - Xamarin.Auth helps you authenticate users via standard authentication mechanisms (e.g. OAuth 1.0 and 2.0), and store user credentials. ![android][android]![ios][ios]
@@ -426,7 +431,7 @@ Most of these are paid services, some have free tiers.
 * 
 
 #### Button
-* 
+* [ButtonCircle](https://github.com/wilsonvargas/ButtonCirclePlugin) - Simple but elegant way of display circle buttons with an icon in your Xamarin.Forms projects. ![android][android]![ios][ios]![windows][windows]
 
 #### Calendar
 * 
