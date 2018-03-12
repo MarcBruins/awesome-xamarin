@@ -147,10 +147,11 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 # Libraries And Frameworks
 
 ## Analytics
-* [Google Analytics](https://www.google.nl/intl/nl/analytics/) - Google analytics platform. ![android][android]![ios][ios]![windows][windows] 
+* [Google Analytics](https://www.google.nl/intl/nl/analytics/) - Google analytics platform. ![android][android]![ios][ios]![windows][windows]
 * [Firebase](https://firebase.google.com/) - Analytics and much more. ![android][android]![ios][ios]![windows][windows] 
 * [Hockeyapp](https://www.hockeyapp.net/) - Analytics and crash reporting ![android][android]![ios][ios]![windows][windows]
 - [Raygun](https://raygun.com/) - Crash reporting and real user monitoring. ![android][android]![ios][ios]![windows][windows]
+* [Microsoft App Center](https://docs.microsoft.com/zh-cn/appcenter/) - Test、Distribute、Analytics and Crashes reporting ![android][android]![ios][ios]![windows][windows]
 
 ## Animation
 * [Xamarin.Animations](https://github.com/aloisdeniel/Xamarin.Animations) - Libraries tends to make view animation easier for common scenarios like fade or scale entrance animations. ![android][android]![ios][ios]![windows][windows]
