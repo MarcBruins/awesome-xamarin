@@ -196,6 +196,7 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 * [Xamarin profiler](https://www.xamarin.com/profiler) - Use it to find memory leaks, resolve performance bottlenecks, and add polish to your apps before getting them out the door. ![android][android]![ios][ios]
 * [Firebase](https://firebase.google.com/) - Analytics and much more. ![android][android]![ios][ios]![windows][windows] 
 * [Hockeyapp](https://hockeyapp.com/) - Analytics and crash reporting ![android][android]![ios][ios]![windows][windows]
+* [App Center](https://docs.microsoft.com/zh-cn/appcenter/) - Test、Distribute、Analytics and Crashes reporting ![android][android]![ios][ios]![windows][windows]
 
 ## Color
 * [Splat](https://github.com/paulcbetts/splat) - Splat aims to fix that, by providing a usable leaky abstraction above platform code. It is leaky, because it always provides an extension method ToNative() and FromNative(), which converts the abstraction to the platform-specific version.
