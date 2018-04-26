@@ -529,7 +529,7 @@ Most of these are paid services, some have free tiers.
 * 
 
 # Tools
-* 
+* [Mutatio](https://github.com/yuv4ik/Mutatio) - Visual Studio for Mac add-in/extension for converting old PCLs to .NET Standard 2.0 targeting projects automatically.
 
 # Rapid Development
 * 
