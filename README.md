@@ -285,6 +285,7 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 ## Media
 #### Audio
 * [XamarinMediaManager](https://github.com/martijn00/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL ![android][android]![ios][ios]![windows][windows]
+* [LibVLCSharp](https://github.com/videolan/libvlcsharp) - Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN. ![android][android]![ios][ios]
 
 #### GIF
 * [gifimageviewandroid](https://components.xamarin.com/view/gifimageviewandroid) - Xamarin.Android ImageView that handles Animated GIF images! ![android][android]![ios][ios]![windows][windows]
@@ -322,6 +323,7 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 
 #### Video
 * [XamarinMediaManager](https://github.com/martijn00/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL ![android][android]![ios][ios]![windows][windows]
+* [LibVLCSharp](https://github.com/videolan/libvlcsharp) - Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN. ![android][android]![ios][ios]
 
 ## Messaging
 
