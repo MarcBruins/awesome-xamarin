@@ -561,7 +561,7 @@ Most of these are paid services, some have free tiers.
 * 
 
 #### Tutorials and Keynotes
-* 
+* [Programming Community Curated Resources For Learning Xamarin](https://hackr.io/tutorials/learn-xamarin)
 
 #### iOS UI Template
 * 
