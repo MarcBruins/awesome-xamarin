@@ -192,6 +192,7 @@ Awesome-Xamarin is an amazing list for people who need a certain feature on thei
 * [SciChart](https://www.scichart.com/scichart-xamarin-ios-xamarin-android-bindings-alpha/) - High performance iOS & Android charts. Capable of displaying millions of data-points in real-time (see [Android Performance](https://www.scichart.com/android-chart-performance-comparison/), [iOS Performance](https://www.scichart.com/ios-chart-performance-comparison/)). Supports 2D Line, Scatter, Column, Mountain chart, OHLC, Candlestick, Heatmap. v2 will support Stacked Columns, Stacked Mountains, Error Bars, Bubbles and Xamarin bindings![android][android]![ios][ios]
 * [MPAndroidChart](https://github.com/Flash3001/MPAndroidChart.Xamarin) - A Xamarin binding for [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) by Philipp Jahoda. ![android][android]
 * [Microcharts](https://github.com/aloisdeniel/Microcharts) - A SkiaSharp based library to create cross-platform charts. ![android][android]![ios][ios]![windows][windows]
+* [MPAndroidChartXF](https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT) - MPAndroidChart/iOSCharts binding support for Xamarin Forms ![android][android]![ios][ios]
 
 ## Code Quality
 * [Xamarin profiler](https://www.xamarin.com/profiler) - Use it to find memory leaks, resolve performance bottlenecks, and add polish to your apps before getting them out the door. ![android][android]![ios][ios]
